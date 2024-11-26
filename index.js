@@ -48,4 +48,8 @@ for(let i = 0; i < nomeHeroi.length; i++){
     console.log('O Herói de nome ' + nome + ' está no nível ' + nivel)
 }
 
-//Código 50% feito por Eduardo Mansur 100% inspirado por Thales Cardoso
+//Código 100% feito por Eduardo Mansur 50% inspirado em Thales Cardoso
+//Iniciado as 19:00 de 26/11/2024
+//Encerrado as 20:03 do mesmo dia
+//Relato: No inicio da resolução, utilizei a estrutura de decisão Switch, sendo que a variavel do XP se encontrava string. Enquanto a mesma se encontrava no valor exato, retornava corretamente, mas assim que variava, começava a bugar
+//Relato²: Tentei fazer um outro código utilizando SWITCH CASE, mas sem sucesso.
